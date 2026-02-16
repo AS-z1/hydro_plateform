@@ -1,0 +1,13 @@
+dash
+dash-bootstrap-components
+pandas
+numpy
+plotly
+scikit-learn
+scipy
+xarray
+pyet
+ibicus
+tensorflow
+pymoo
+gunicorn
