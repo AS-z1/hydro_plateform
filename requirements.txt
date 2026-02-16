@@ -8,6 +8,6 @@ scipy
 xarray
 pyet
 ibicus
-tensorflow
+tensorflow==2.20.0
 pymoo
 gunicorn
