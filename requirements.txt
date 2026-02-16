@@ -10,4 +10,5 @@ pyet
 ibicus
 tensorflow==2.17.0
 pymoo
+pydantic-settings
 gunicorn
